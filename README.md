@@ -22,4 +22,5 @@ The main output is the **median seeing (FWHM in arcseconds)** computed from sele
 - The scripts are intended for raw observational FITS data.
 - Different binning settings are handled consistently during the seeing (arcsec) calculation.
 
-The pipeline uses DAOStarFinder for source detection and applies 1D/2D Gaussian fitting for FWHM estimation where required; some utility functions were developed for flexibility and future use and may not be invoked in the current main workflow. 🙂):
+The pipeline uses DAOStarFinder for source detection and applies 1D/2D Gaussian fitting for FWHM estimation where required; some utility functions were developed for flexibility and future use and may not be invoked in the current main workflow. 
+And some Malayalam (my language ) comments for me 🙂):
